@@ -1,0 +1,45 @@
+08-May-2020 22:57:55.408 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.50
+08-May-2020 22:57:55.419 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 7 2018 20:06:05 UTC
+08-May-2020 22:57:55.420 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.50.0
+08-May-2020 22:57:55.420 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+08-May-2020 22:57:55.421 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+08-May-2020 22:57:55.421 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-May-2020 22:57:55.421 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\Eclipse\jdk-12.0.1
+08-May-2020 22:57:55.421 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           12.0.1+12
+08-May-2020 22:57:55.421 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-May-2020 22:57:55.422 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         G:\JAVA学习资料\javaWEB\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50
+08-May-2020 22:57:55.422 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         G:\JAVA学习资料\javaWEB\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50
+08-May-2020 22:57:55.422 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-May-2020 22:57:55.422 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-May-2020 22:57:55.423 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=G:\JAVA学习资料\javaWEB\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\conf\logging.properties
+08-May-2020 22:57:55.423 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-May-2020 22:57:55.423 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-May-2020 22:57:55.424 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-May-2020 22:57:55.424 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-May-2020 22:57:55.425 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=G:\JAVA学习资料\javaWEB\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50
+08-May-2020 22:57:55.425 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=G:\JAVA学习资料\javaWEB\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50
+08-May-2020 22:57:55.425 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=G:\JAVA学习资料\javaWEB\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\temp
+08-May-2020 22:57:55.426 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library 1.2.16 using APR version 1.6.3.
+08-May-2020 22:57:55.426 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+08-May-2020 22:57:56.025 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized (OpenSSL 1.0.2m  2 Nov 2017)
+08-May-2020 22:57:56.197 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-apr-8080"]
+08-May-2020 22:57:56.211 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-apr-8009"]
+08-May-2020 22:57:56.213 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1194 ms
+08-May-2020 22:57:56.253 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+08-May-2020 22:57:56.254 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.50
+08-May-2020 22:57:56.418 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory G:\JAVA学习资料\javaWEB\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\docs
+08-May-2020 22:57:57.342 警告 [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [507] milliseconds.
+08-May-2020 22:57:57.367 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory G:\JAVA学习资料\javaWEB\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\docs has finished in 949 ms
+08-May-2020 22:57:57.368 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory G:\JAVA学习资料\javaWEB\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\examples
+08-May-2020 22:57:58.039 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory G:\JAVA学习资料\javaWEB\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\examples has finished in 670 ms
+08-May-2020 22:57:58.039 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory G:\JAVA学习资料\javaWEB\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\host-manager
+08-May-2020 22:57:58.103 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory G:\JAVA学习资料\javaWEB\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\host-manager has finished in 64 ms
+08-May-2020 22:57:58.103 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory G:\JAVA学习资料\javaWEB\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\manager
+08-May-2020 22:57:58.137 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory G:\JAVA学习资料\javaWEB\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\manager has finished in 33 ms
+08-May-2020 22:57:58.138 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory G:\JAVA学习资料\javaWEB\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\ROOT
+08-May-2020 22:57:58.192 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory G:\JAVA学习资料\javaWEB\资料\05-XML & Tomcat\资料\apache-tomcat-8.0.50\webapps\ROOT has finished in 54 ms
+08-May-2020 22:57:58.196 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-apr-8080"]
+08-May-2020 22:57:58.276 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-apr-8009"]
+08-May-2020 22:57:58.293 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 2080 ms
+08-May-2020 22:58:12.043 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
+08-May-2020 23:00:40.095 警告 [main] org.apache.catalina.core.StandardServer.await StandardServer.await: Invalid command '' received
